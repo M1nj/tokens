@@ -1,10 +1,10 @@
 {
   "colors": {
-    "Blue": {
+    "Blue-000": {
       "value": "#a9cce6",
       "type": "color"
     },
-    "Yellow": {
+    "Yellow-000": {
       "value": "#ffea80",
       "type": "color"
     }
