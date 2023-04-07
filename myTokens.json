@@ -1,5 +1,5 @@
 {
-  "global": {
+  "colors": {
     "Blue": {
       "value": "#a9cce6",
       "type": "color"
@@ -12,7 +12,7 @@
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      "global"
+      "colors"
     ]
   }
 }
