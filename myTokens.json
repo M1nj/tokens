@@ -3,6 +3,10 @@
     "Blue": {
       "value": "#a9cce6",
       "type": "color"
+    },
+    "Yellow": {
+      "value": "#ffea80",
+      "type": "color"
     }
   },
   "$themes": [],
