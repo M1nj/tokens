@@ -7,6 +7,22 @@
     "Yellow-000": {
       "value": "#ffea80",
       "type": "color"
+    },
+    "Blue-500": {
+      "value": "#6e9fc6",
+      "type": "color"
+    },
+    "Blue-900": {
+      "value": "#3b6f96",
+      "type": "color"
+    },
+    "Yellow-500": {
+      "value": "#fdb813",
+      "type": "color"
+    },
+    "Yellow-900": {
+      "value": "#e2b200",
+      "type": "color"
     }
   },
   "$themes": [],
